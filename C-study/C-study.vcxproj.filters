@@ -13,25 +13,10 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\variable">
-      <UniqueIdentifier>{e39996cd-23d1-46aa-a23a-38a9f5bb9fb7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\array">
-      <UniqueIdentifier>{e89d9b1e-60e3-4ca1-86b0-17cb5791a2f2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\method">
-      <UniqueIdentifier>{44a53b90-7ac2-4316-953a-bc0991df60b2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\loop">
-      <UniqueIdentifier>{2a8e91f0-6092-48b2-a4bc-9d4909992713}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="var0.cpp">
-      <Filter>소스 파일\variable</Filter>
-    </ClCompile>
-    <ClCompile Include="Array1.cpp">
-      <Filter>소스 파일\array</Filter>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

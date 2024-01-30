@@ -1,6 +1,6 @@
-#include <stdio.h>
+//#include <stdio.h>
 
-int main() {
+/*int main() {
 	char s[100];
 	int i = 0, j = 0, k = 0;
 	gets_s(s);
@@ -15,4 +15,4 @@ int main() {
 	printf("%d \n", i);
 	
 	return 0;
-}
+}*/
